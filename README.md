@@ -23,7 +23,7 @@ For this challenge I am applying different Artificial Intelligence methods of su
 
 ### Balanced Random Forest Classifier
 - Balanced Accuracy Score: 0.79
-- Random Score:.99
+- Precision Score:.99
 
 ### Easy Ensemble AdaBoost Classifier
 - Balanced Accuracy Score: 0.93
